@@ -1,0 +1,47 @@
+This is JBibTeX, Version 0.33, based on BibTeX 0.99d (TeX Live 2015/W32TeX)
+Capacity: max_strings=500000, hash_size=500000, hash_prime=425003
+The top-level auxiliary file: helen.aux
+The style file: junsrt2.bst
+Database file #1: mybib.bib
+You've used 3 entries,
+            2436 wiz_defined-function locations,
+            594 strings with 4545 characters,
+and the built_in function-call counts, 796 in all, are:
+= -- 57
+> -- 18
+< -- 3
++ -- 8
+- -- 5
+* -- 32
+:= -- 98
+add.period$ -- 8
+call.type$ -- 3
+change.case$ -- 2
+chr.to.int$ -- 0
+cite$ -- 3
+duplicate$ -- 54
+empty$ -- 87
+format.name$ -- 10
+if$ -- 194
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 3
+newline$ -- 17
+num.names$ -- 3
+pop$ -- 23
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 46
+stack$ -- 0
+substring$ -- 32
+swap$ -- 14
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 6
+width$ -- 4
+write$ -- 31
+is.kanji.str$ -- 28
